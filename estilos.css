@@ -1,0 +1,52 @@
+body {
+
+    background-image: url(fundo.jpg);
+    font-size: 1.1em;
+    font-weight: 600;
+    letter-spacing: 0.50;
+    line-height: 2. em;
+    margin: 2em;
+}
+
+h2 {
+
+    text-align: center;
+    border-bottom: outset 9px HotPink;
+    background-image: linear-gradient(to top, PaleVioletRed,
+            MediumVioletRed);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+
+    background-image: linear-gradient(to top, PaleVioletRed, MediumVioletRed);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+header {
+    margin: 2%;
+    font-size: 20px;
+    background-image: url(love.jpg);
+    width: 1220px;
+    height: 400px;
+
+}
+
+article {
+    margin-left: 17em;
+    max-width: 30em;
+
+
+}
+
+footer{
+
+    text-align: center;
+}
